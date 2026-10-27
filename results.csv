@@ -1,0 +1,6 @@
+Algorithm,Random,Reversed,Partially Sorted,Fully Sorted
+Selection Sort,2385746,3352355,2329428,2250520
+Insertion Sort,700700,1413939,164102,125
+Bubble Sort,17286003,8255001,8711915,234
+Merge Sort,11070,3622,5346,2773
+Quick Sort,8115,4077958,7641,4939014
